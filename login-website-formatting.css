@@ -1,0 +1,26 @@
+body {
+    background-color : #ffe600;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
+    color: #427bf8;
+    text-shadow: 2px 2px #555;
+}
+#link {
+    border: 2px solid #ffe600;
+}
+header, footer {
+    background-color: #ac9a00;
+  /*  left: 1.5%;*/
+    width: 97%;
+
+    border: 4px inset #3a3400;
+    border-radius: 14px;
+    margin: 1em;
+    padding: 1em;
+    box-shadow: 10px 10px 5px #ff9900;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+}

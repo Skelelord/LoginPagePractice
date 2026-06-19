@@ -1,0 +1,1 @@
+To run this website first install Xampp and 
